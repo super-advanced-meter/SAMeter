@@ -1,3 +1,5 @@
+## Dear interested Reader, this project has moved to Emeritius Status within Linux Foundation Energy. I.e. the project is currently inactive. Should you want to contribute to the project, please contact Linux Foundation Energy @ https://lfenergy.org/about/contact/.
+
 # Community Specification
 
 ## What is the Community Specification For?
